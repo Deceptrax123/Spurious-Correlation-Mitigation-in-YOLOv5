@@ -7,3 +7,6 @@
 [submodule "autoencoder-mitigation"]
 	path = autoencoder-mitigation
 	url = https://github.com/Deceptrax123/autoencoder-image-glare-removal
+[submodule "box-fusion"]
+	path = box-fusion
+	url = https://github.com/Deceptrax123/box-fusion
