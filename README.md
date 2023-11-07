@@ -14,7 +14,7 @@ So far the following have been implemented(Phase 1):
 ## Folder Description
 |Name|Description|
 |-----|--------|
-|Raw-YOLOv5-Wheat-Heads|Scripts to train the Ultralytics YOLOv5 from scratch|
+|yolov5|Scripts to train the Ultralytics YOLOv5 from scratch|
 |Box-fusion| Scripts for Weighted Bounding Box Fusion of different combinations|
-|Inpainting-Glare-Removal|Scripts for Image Inpainting Algorithms|
-|autoencoder-image-glare-removal| Models and Scripts for Autoencoder implemented in PyTorch|
+|image-inpainting|Scripts for Image Inpainting Algorithms|
+|autoencoder-mitigation| Models and Scripts for Autoencoder implemented in PyTorch|
