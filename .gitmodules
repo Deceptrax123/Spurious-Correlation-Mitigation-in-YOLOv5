@@ -1,12 +1,9 @@
 [submodule "yolov5"]
-	path = Wheat-Head-Detection
+	path = yolov5
 	url = https://github.com/Deceptrax123/Raw-YOLOv5-Wheat-Heads
 [submodule "image-inpainting"]
-	path = enhacement-algorithms
+	path = image-inpainting
 	url = https://github.com/Deceptrax123/inpainting-glare-removal
-[submodule "box-fusion"]
-	path = box-fusion
-	url = https://github.com/Deceptrax123/box-fusion
 [submodule "autoencoder-mitigation"]
-	path = deep-learning-image-enhacement
+	path = autoencoder-mitigation
 	url = https://github.com/Deceptrax123/autoencoder-image-glare-removal
